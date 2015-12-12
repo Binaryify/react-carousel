@@ -34,14 +34,23 @@ module.exports = {
         warnings: false
       }
     }),
-    new CopyWebpackPlugin([{
+    new CopyWebpackPlugin([
+    {
       from: './src/index.html',
       to: 'index.html'
+    },
+    {
+      from: './src/fonts/',
+      to: 'fonts'
+    },
+    {
+      from: './src/imgs/',
+      to: 'imgs/'
+    },
+    {
+      from: './src/css/',
+      to: 'css/'
     }
-    // , {
-    //   from: './src/main.css',
-    //   to: 'main.css'
-    // }
   ]),
   ]
 };
