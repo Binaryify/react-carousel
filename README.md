@@ -7,7 +7,7 @@ this is react-carousel component and it suport Responsive layout!
 
 ![](http://zhuangtongfa.gitcafe.io/img/carousel2.png)
 
-![](http://zhuangtongfa.gitcafe.io/img/carousel3.png)
+![](http://zhuangtongfa.gitcafe.io/img/carousel4.png)
 
 [demo地址](http://zhuangtongfa.gitcafe.io/demo/react-carousel)
 #start
