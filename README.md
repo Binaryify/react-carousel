@@ -20,6 +20,8 @@ $ npm start
 
 ```
 #usage
+<link rel="stylesheet" href="./css/font-awesome.min.css">
+
 ```js
 import React from 'react';
 import ReactDOM from 'react-dom'
