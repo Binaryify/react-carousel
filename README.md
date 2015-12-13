@@ -1,7 +1,7 @@
 # react-carousel
-this is react-carousel component and it suport Responsive layout!
+this is react-carousel component and it suport Responsive layout!(suport gesture operation!)
 
-这是个react轮播图组件,并且它是响应式的!
+这是个react轮播图组件,并且它是响应式的!(支持手势操作!)
 
 ![](http://zhuangtongfa.gitcafe.io/img/carousel1.png)
 
