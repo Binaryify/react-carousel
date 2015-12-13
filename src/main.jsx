@@ -12,4 +12,4 @@ var slides = [{
     link:"https://zhuangtongfa.github.io/"
   }];
 
-ReactDOM.render( < Slider slides= {slides} / > , document.getElementById("app"));
+ReactDOM.render( < Slider slides= {slides} time="2000"/ > , document.getElementById("app"));
