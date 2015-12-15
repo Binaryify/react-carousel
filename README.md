@@ -7,7 +7,7 @@ this is react-carousel component and it suport Responsive layout!(suport gesture
 
 ![](https://github.com/zhuangtongfa/react-carousel/blob/master/src/imgs/2.jpg?raw=true)
 
-![](https://github.com/zhuangtongfa/react-carousel/blob/master/src/imgs/4.jpg?raw=true)
+![](https://github.com/zhuangtongfa/react-carousel/blob/master/src/imgs/3.jpg?raw=true)
 
 [demo地址](http://senguzh.com/ztf/example/)
 #Start
