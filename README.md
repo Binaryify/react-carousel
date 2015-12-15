@@ -3,11 +3,11 @@ this is react-carousel component and it suport Responsive layout!(suport gesture
 
 这是个react轮播图组件,并且它是响应式的!(支持手势操作!)
 
-![](https://raw.githubusercontent.com/zhuangtongfa/react-carousel/master/example/imgs/carousel1.png)
+![](https://github.com/zhuangtongfa/react-carousel/blob/master/src/imgs/1.jpg?raw=true)
 
-![](https://raw.githubusercontent.com/zhuangtongfa/react-carousel/master/example/imgs/carousel2.png)
+![](https://github.com/zhuangtongfa/react-carousel/blob/master/src/imgs/2.jpg?raw=true)
 
-![](https://raw.githubusercontent.com/zhuangtongfa/react-carousel/master/example/imgs/carousel4.png)
+![](https://github.com/zhuangtongfa/react-carousel/blob/master/src/imgs/4.jpg?raw=true)
 
 [demo地址](http://senguzh.com/ztf/example/)
 #Start
