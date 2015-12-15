@@ -28,8 +28,9 @@ module.exports = {
       exclude: /node_modules/,
       loader: 'babel-loader'
     }, {
-      test: /\.scss$/,
-      loaders: ["style", "css?sourceMap", ,"autoprefixer-loader","sass?sourceMap"]
+      test: /\.css$/,
+      include: path.resolve(__dirname, 'src'),
+      loader: 'style-loader!css-loader?sourceMap!autoprefixer-loader'
     }, {
       test: /\.(png|jpg)$/,
       loader: 'url?limit=25000'
